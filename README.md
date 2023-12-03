@@ -16,6 +16,6 @@
 + Добавить скриншот кода программы
   
   ### Справочный материал
- Отчет можно прислать на почту <sonyamilyaeva@gmail.com>
+ Почта <sonyamilyaeva@gmail.com>
  
 Это [ссылка с формулами](https://studfile.net/preview/1655000/page:6/)
